@@ -10,3 +10,5 @@ Then, you can run "run_mlm_adv.ipynb" to finetune the selected models.
 
 In addition, we investigate the gender bias of models on our genertated dataset before and after finetuning respectively, run the file "DistilBert.ipynb".
 
+More details of this project are shown in report in file named"IDL_21_project_final.pdf"
+
